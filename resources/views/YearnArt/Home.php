@@ -13,13 +13,13 @@
 <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 
 <title>Yearn Art | Home</title>
-<link rel="icon" href="Yearn.jpg" type="image/png">
+<link rel="icon" href="assets/image/Yearn.jpg" type="image/png">
 
 </head>
 <body>
   <nav class="navbar">
     <div class="logo">
-      <img src="Yearn.jpg" alt="Logo">
+      <img src="assets/image/Yearn.jpg" alt="Logo">
       <a href="Home">Yearn Art</a>
     </div>
     <div class="menu">
@@ -40,7 +40,7 @@
   <div class="container">
     <div class="pic">
       <div class="picture">
-        <img src="Yearn.jpg" alt="Yearn Art">
+        <img src="assets/image/Yearn.jpg" alt="Yearn Art">
       </div>
     </div>
     <div class="main-container">
@@ -51,21 +51,21 @@
               <!-- Slide-start -->
               <div class="swiper-slide tranding-slide">
                   <div class="tranding-slide-img">
-                  <img src="baby.jpg" alt="Tranding">
+                  <img src="assets/image/baby.jpg" alt="Tranding">
                   </div>
               </div>
               <!-- Slide-end -->
               <!-- Slide-start -->
               <div class="swiper-slide tranding-slide">
                   <div class="tranding-slide-img">
-                  <img src="totebag2.jpg" alt="Tranding">
+                  <img src="assets/image/totebag2.jpg" alt="Tranding">
                   </div>
               </div>
               <!-- Slide-end -->
               <!-- Slide-start -->
               <div class="swiper-slide tranding-slide">
                   <div class="tranding-slide-img">
-                  <img src="beachwear.jpg" alt="Tranding">
+                  <img src="assets/image/beachwear.jpg" alt="Tranding">
                   </div>
               </div>
               <!-- Slide-end -->

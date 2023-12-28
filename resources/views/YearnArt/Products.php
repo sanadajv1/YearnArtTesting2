@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="CSS/products.css">
-<link rel="stylesheet" href="CSS/typing.css">
-<link rel="stylesheet" href="CSS/chatbot.css">
+<link rel="stylesheet" href="assets/css/products.css">
+<link rel="stylesheet" href="assets/css/typing.css">
+<link rel="stylesheet" href="assets/css/chatbot.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 
 <title>Yearn Art | Home</title>
-<link rel="icon" href="Yearn.jpg" type="image/png">
+<link rel="icon" href="assets/image/Yearn.jpg" type="image/png">
 
 </head>
 <body>
