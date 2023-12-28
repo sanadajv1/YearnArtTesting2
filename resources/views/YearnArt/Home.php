@@ -20,7 +20,7 @@
   <nav class="navbar">
     <div class="logo">
       <img src="assets/image/Yearn.jpg" alt="Logo">
-      <a href="Home">Yearn Art</a>
+      <a href="/">Yearn Art</a>
     </div>
     <div class="menu">
         <div class="menu-links">
@@ -29,7 +29,7 @@
             <a href="About" class="About">About Us</a>
             <a href="FAQ" class="FAQ">FAQ</a>
             <a href="login" class="Login">Log in</a>
-            <a href="Signup" class="Signup">Signup</a>
+            <a href="register" class="Signup">Signup</a>
         </div>
     </div>
     <div class="menu-btn">
