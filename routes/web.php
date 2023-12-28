@@ -22,22 +22,17 @@ Route::get('/About', function () {
     return view('YearnArt.About');
 });
 
-require __DIR__.'/auth.php';
 
 
-Route::get('/admin/dashboard', function () {
-    return view('admin.dashboard');
-})->middleware(['auth:admin', 'verified'])->name('admin.dashboard');
 
-require __DIR__.'/adminauth.php';
 
-Route::get('/login', function () {
-    return view('auth.login');
-})->name('login');
+Route::get('/Login', function () {
+    return view('YearnArt.Login');
+})->name('Login');
 
-Route::get('/register', function () {
-    return view('auth.register');
-})->name('register');
+Route::get('/Signup', function () {
+    return view('YearnArt.Signup');
+})->name('Signup');
 
 Route::get('/FAQ', function () {
     return view('YearnArt.FAQ');

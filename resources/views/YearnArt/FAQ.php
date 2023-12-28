@@ -28,8 +28,8 @@
             <a href="MyOrders" class="Orders">My Orders</a>
             <a href="About" class="About">About Us</a>
             <a href="FAQ" class="FAQ">FAQ</a>
-            <a href="login" class="Login">Log in</a>
-            <a href="register" class="Signup">Signup</a>
+            <a href="Login" class="Login">Log in</a>
+            <a href="Signup" class="Signup">Signup</a>
         </div>
     </div>
     <div class="menu-btn">

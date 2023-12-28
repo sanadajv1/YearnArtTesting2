@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="CSS/home.css">
-<link rel="stylesheet" href="CSS/typing.css">
-<link rel="stylesheet" href="CSS/chatbot.css">
+<link rel="stylesheet" href="assets/css/home.css">
+<link rel="stylesheet" href="assets/css/typing.css">
+<link rel="stylesheet" href="assets/css/chatbot.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,8 +28,8 @@
             <a href="MyOrders" class="Orders">My Orders</a>
             <a href="About" class="About">About Us</a>
             <a href="FAQ" class="FAQ">FAQ</a>
-            <a href="login" class="Login">Log in</a>
-            <a href="register" class="Signup">Signup</a>
+            <a href="Login" class="Login">Log in</a>
+            <a href="Signup" class="Signup">Signup</a>
         </div>
     </div>
     <div class="menu-btn">
