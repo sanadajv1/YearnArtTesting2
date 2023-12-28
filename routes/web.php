@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('YearnArt.Home');
 });
 
 Route::get('/dashboard', function () {
@@ -29,3 +29,30 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+
+/* Routes */
+
+Route::get('/Signup', function () {
+    return view('YearnArt.Signup');
+})->name('Signup');
+
+Route::get('/FAQ', function () {
+    return view('YearnArt.FAQ');
+})->name('FAQ');
+
+Route::get('/Products', function () {
+    return view('YearnArt.Products');
+})->name('Products');
+
+Route::get('/About', function () {
+    return view('YearnArt.About');
+})->name('About');
+
+Route::get('/MyOrders', function () {
+    return view('YearnArt.MyOrders');
+})->name('MyOrders');
+
+Route::get('/login', function () {
+    return view('auth.login');
+})->name('login');
