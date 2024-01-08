@@ -77,7 +77,7 @@
     </div>
   </div>  
 
-<script src="./home.js"></script>
+<script src="assets/javascript/home.js"></script>
 
 <div class="chatbot">
     <div class="chatbox">

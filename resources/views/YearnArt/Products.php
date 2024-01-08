@@ -19,7 +19,7 @@
 <body>
   <nav class="navbar">
     <div class="logo">
-      <img src="Yearn.jpg" alt="Logo">
+      <img src="assets/image/Yearn.jpg" alt="Logo">
       <a href="/">Yearn Art</a>
     </div>
     <div class="menu">
@@ -43,13 +43,13 @@
         <div class="handmade-products">
             <section class="layout1">
                 <div>
-                    <img src="/Yearn Art/Image/Elmobag.png" alt="Elmo Bag">
+                    <img src="assets/image//Elmobag.png" alt="Elmo Bag">
                 </div>
                 <div>
-                    <img src="/Yearn Art/Image/Totebag.png" alt="Tote Bag">
+                    <img src="assets/image/Totebag.png" alt="Tote Bag">
                 </div>
                 <div>
-                    <img src="/Yearn Art/Image/Bag.png" alt="">
+                    <img src="assets/image/Bag.png" alt="">
                 </div>
             </section>
         </div>
@@ -60,16 +60,16 @@
         <div class="babyclothing-products">
             <section class="layout1">
                 <div>
-                    <img src="/Yearn Art/Image/Baby1.png" alt="Elmo Bag">
+                    <img src="assets/image/Baby1.png" alt="Elmo Bag">
                 </div>
                 <div>
-                    <img src="/Yearn Art/Image/Baby2.png" alt="Tote Bag">
+                    <img src="assets/image/Baby2.png" alt="Tote Bag">
                 </div>
                 <div>
-                    <img src="/Yearn Art/Image/Baby3.png" alt="">
+                    <img src="assets/image/Baby3.png" alt="">
                 </div>
                 <div>
-                    <img src="/Yearn Art/Image/Baby4.png" alt="">
+                    <img src="assets/image/Baby4.png" alt="">
                 </div>
             </section>
         </div>
@@ -80,10 +80,10 @@
         <div class="beachwear-products">
             <section class="layout1">
                 <div>
-                    <img src="/Yearn Art/Image/bw1.png" alt="Elmo Bag">
+                    <img src="assets/image/bw1.png" alt="Elmo Bag">
                 </div>
                 <div>
-                    <img src="/Yearn Art/Image/bw2.png" alt="Tote Bag">
+                    <img src="assets/image/bw2.png" alt="Tote Bag">
                 </div>
             </section>
         </div>
@@ -121,11 +121,11 @@
             </div>
             <div class="chatbox__footer">
                 <div class="file">
-                    <img src="file.png" alt="file">
+                    <img src="assets/image/file.png" alt="file">
                 </div>
                 <input type="text" placeholder="Write a message...">
                 <div class="icon">
-                    <img src="./send.png" alt="Send">
+                    <img src="assets/image/send.png" alt="Send">
                 </div>
             </div>
         </div>
@@ -134,13 +134,13 @@
         </div>
     </div>
 </div>
-<script src="./Chat.js"></script>
-<script src="./app.js"></script>
+<script src="assets/javascript/Chat.js"></script>
+<script src="assets/javascript/app.js"></script>
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-    <script src="script.js"></script>
+    <script src="assets/javascript/script.js"></script>
 
 
   <script>

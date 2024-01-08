@@ -13,13 +13,13 @@
 <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 
 <title>Yearn Art | About Us</title>
-<link rel="icon" href="Yearn.jpg" type="image/png">
+<link rel="icon" href="assets/image/Yearn.jpg" type="image/png">
 
 </head>
 <body>
   <nav class="navbar">
     <div class="logo">
-      <img src="Yearn.jpg" alt="Logo">
+      <img src="assets/image/Yearn.jpg" alt="Logo">
       <a href="/">Yearn Art</a>
     </div>
     <div class="menu">
@@ -39,7 +39,7 @@
 
   <div class="content">
     <div class="yearnpic">
-        <img src="Yearn.jpg" alt="Logo">
+        <img src="assets/image/Yearn.jpg" alt="Logo">
     </div>
     <div class="about-yearn">
         <h1>ABOUT US</h1>
@@ -59,17 +59,17 @@
     <div class="contact-us">
         <h1>CONTACT US</h1>
 
-        <p><img src="location.png"> 48 Lot 8, Marang St, Amparo Subd., Brgy 179, Caloocan City, MM</p>
+        <p><img src="assets/image/location.png"> 48 Lot 8, Marang St, Amparo Subd., Brgy 179, Caloocan City, MM</p>
         <br>
-        <p><img src="phone.png">0948 298 9479</p>
+        <p><img src="assets/image/phone.png">0948 298 9479</p>
         <br>
-        <p><img src="mail.png"><a href="mailto:yearnart21@gmail.com">yearnart21@gmail.com</a></p>
+        <p><img src="assets/image/mail.png"><a href="mailto:yearnart21@gmail.com">yearnart21@gmail.com</a></p>
     </div>
   </div> 
 
 
 
-<script src="./home.js"></script>
+<script src="assets/javascript/home.js"></script>
 
 <div class="chatbot">
     <div class="chatbox">
@@ -115,8 +115,8 @@
         </div>
     </div>
 </div>
-<script src="./Chat.js"></script>
-<script src="./app.js"></script>
+<script src="assets/javascript/Chat.js"></script>
+<script src="assets/javascript/app.js"></script>
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
