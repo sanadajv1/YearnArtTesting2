@@ -35,7 +35,7 @@
       <i class="fa-solid fa-bars"></i>
     </div>
   </nav>
-  <p id="Welcome">Create your Yearn Art Account.</p>
+  
  
   <x-guest-layout>
     <form method="POST" action="{{ route('register') }}">
